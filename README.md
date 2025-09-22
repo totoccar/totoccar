@@ -3,4 +3,3 @@ Currently learning more about cloud-native technologies and CI/CD workflows.
 
 - 🔧 Tech stack: NodeJS, Next.js, TypeScript, React, Java
 - 📚 Currently learning: NestJS,Docker,monitoring tools
-- 💼 Looking for opportunities in Fullstack roles 
