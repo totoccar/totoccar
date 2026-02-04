@@ -1,5 +1,5 @@
-I'm a Systems Engineering student passionate about building fullstack web applications, automation, and maintaining reliable and high-quality systems.
-Currently learning more about cloud-native technologies and CI/CD workflows.
+Advanced Information Systems Engineering student building industry-grade projects in ML, backend, and critical systems.
+Focused on defense-inspired solutions, data-driven architectures, and clean, scalable code.
 
-- 🔧 Tech stack: NodeJS, Next.js, TypeScript, React, Java
-- 📚 Currently learning: NestJS,Docker,monitoring tools
+🔧 Tech stack: C++, Python, Java, Node.js, Next.js, TypeScript, React
+📚 Currently learning: Machine Learning, Docker, monitoring tools
