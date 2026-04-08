@@ -2,4 +2,4 @@ Advanced Information Systems Engineering student building industry-grade project
 Focused on defense-inspired solutions, data-driven architectures, and clean, scalable code.
 
 🔧 Tech stack: C++, Python, Java, Node.js, Next.js, TypeScript, React
-📚 Currently learning: Machine Learning, Docker, monitoring tools
+📚 Currently learning: Cloud Fundamentals, AWS, Docker, monitoring tools
